@@ -1,0 +1,62 @@
+#welcome {
+    background-image: url(rainy.jpg);
+    text-align: center;
+    height: 800px;
+    color: deeppink;
+}
+
+h1 {
+    font-family: 'Kalam', cursive;
+    color: deeppink;
+}
+#bio{
+text-align:center;
+background-color:aliceblue;
+height:600px;
+}
+body{
+background-color:aliceblue;
+color: deeppink;
+}
+.menu {
+    position: absolute;
+    background-color:aliceblue;
+    cursor: pointer;
+    width: 100%;
+    float: right;
+    margin:0;
+}
+
+.link {
+    display: inline;
+    color: hotpink;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+    text-emphasis-color: none;
+}
+
+.link:hover {
+    background-color: violet;
+}
+#Games{
+display: inline;
+text-align:center;
+align-content: center;
+color:deeppink;
+height:500px;
+width:100%;
+background:aliceblue;
+}
+iframe{
+position:sticky;
+}
+img{
+height:500px;
+width:300px;
+}
+img:hover{
+height:550px;
+width:350px;
+}
